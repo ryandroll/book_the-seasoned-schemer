@@ -1,2 +1,2 @@
-# book_the-seasoned-schemer
-Think and answer about this book
+* The seasoned schemer
+在這邊記錄與學習關於 the seasoned schemer 這本書
